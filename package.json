@@ -1,8 +1,9 @@
 {
 	"name": "some-javascript-code",
 	"version": "1.0.0",
-	"main": "main.js",
+	"main": "",
 	"scripts": {
+		"check-palindrome": "node src/stacks/palindrome.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [],
